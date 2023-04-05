@@ -42,4 +42,3 @@ The purpose of this project is to create an algorithmn to identify metastatic ca
 
 * [Notebook/Markdown/Slide Deck Title](link)
 * [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
